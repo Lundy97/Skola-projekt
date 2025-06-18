@@ -1,2 +1,2 @@
-# -kola-projekt
+# Skola-projekt
 Projekt do školy
